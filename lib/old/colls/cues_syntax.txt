@@ -1,0 +1,35 @@
+—— degrade-steps.txt
+[input] [1/0 on off] [sample rate as percentage of 100] [bit size] [gate]
+
+—— pitch-steps.txt
+[input] [0-1 activate] [gate time] [pitch transposition semitones] [dry mix linear 1/0]
+
+—— downsamp-delay-steps.txt
+[input] [0-1 activate] [gate]
+
+—— attack-glitch-steps.txt
+[input] [0-1 activate] [gate]
+
+—— waterverb-steps.txt
+[input] [0-1 activate] [gate]
+
+—— granulator-steps.txt
+[input] [0-1 activate] [gate]
+
+—— delay-one-steps.txt
+[input] [+/-1-0 activate] [gate time] [feedback] [delay time] [number of repeats (12 max)]
+
+—— reverb-steps_1.txt
+[room size (0.1-300)] [rev time (>0.1)] [spread (0-100)] [input] [0-1 activate] [gate]
+OR
+[room size (0.1-300)] [rev time (>0.1)] [spread (0-100)]
+
+—— reverb-steps_2.txt
+[room size (0.1-300)] [rev time (>0.1)] [spread (0-100)] [input] [0-1 activate] [gate]
+OR
+[room size (0.1-300)] [rev time (>0.1)] [spread (0-100)]
+
+—— reverb-steps_3.txt
+[room size (0.1-300)] [rev time (>0.1)] [spread (0-100)] [input] [0-1 activate] [gate]
+OR
+[room size (0.1-300)] [rev time (>0.1)] [spread (0-100)]
