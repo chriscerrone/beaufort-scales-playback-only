@@ -4,7 +4,7 @@
 	<slot number = "1">
 		<pattr name = "button[4]" value = "0." />
 		<pattr name = "click_track_gain" value = "127" />
-		<pattr name = "gain~[10]" value = "365" />
+		<pattr name = "gain~[10]" value = "385" />
 		<pattr name = "gain~[11]" value = "388" />
 		<pattr name = "gain~[12]" value = "338" />
 		<pattr name = "gain~[13]" value = "338" />
@@ -14,7 +14,7 @@
 		<pattr name = "gain~[17]" value = "365" />
 		<pattr name = "gain~[18]" value = "350" />
 		<pattr name = "gain~[19]" value = "350" />
-		<pattr name = "gain~[1]" value = "310" />
+		<pattr name = "gain~[1]" value = "343" />
 		<pattr name = "gain~[20]" value = "365" />
 		<pattr name = "gain~[21]" value = "365" />
 		<pattr name = "gain~[22]" value = "323" />
@@ -22,13 +22,13 @@
 		<pattr name = "gain~[24]" value = "365" />
 		<pattr name = "gain~[25]" value = "365" />
 		<pattr name = "gain~[26]" value = "365" />
-		<pattr name = "gain~[27]" value = "365" />
+		<pattr name = "gain~[27]" value = "331" />
 		<pattr name = "gain~[28]" value = "365" />
-		<pattr name = "gain~[29]" value = "365" />
-		<pattr name = "gain~[2]" value = "310" />
-		<pattr name = "gain~[30]" value = "365" />
+		<pattr name = "gain~[29]" value = "331" />
+		<pattr name = "gain~[2]" value = "343" />
+		<pattr name = "gain~[30]" value = "332" />
 		<pattr name = "gain~[31]" value = "365" />
-		<pattr name = "gain~[32]" value = "365" />
+		<pattr name = "gain~[32]" value = "332" />
 		<pattr name = "gain~[33]" value = "365" />
 		<pattr name = "gain~[34]" value = "303" />
 		<pattr name = "gain~[35]" value = "303" />
@@ -36,7 +36,7 @@
 		<pattr name = "gain~[37]" value = "275" />
 		<pattr name = "gain~[38]" value = "365" />
 		<pattr name = "gain~[39]" value = "365" />
-		<pattr name = "gain~[3]" value = "365" />
+		<pattr name = "gain~[3]" value = "385" />
 		<pattr name = "gain~[40]" value = "281" />
 		<pattr name = "gain~[41]" value = "281" />
 		<pattr name = "gain~[42]" value = "285" />
@@ -46,20 +46,20 @@
 		<pattr name = "gain~[46]" value = "395" />
 		<pattr name = "gain~[47]" value = "362" />
 		<pattr name = "gain~[48]" value = "372" />
-		<pattr name = "gain~[49]" value = "365" />
+		<pattr name = "gain~[49]" value = "349" />
 		<pattr name = "gain~[4]" value = "216" />
-		<pattr name = "gain~[50]" value = "365" />
-		<pattr name = "gain~[51]" value = "365" />
+		<pattr name = "gain~[50]" value = "349" />
+		<pattr name = "gain~[51]" value = "282" />
 		<pattr name = "gain~[52]" value = "396" />
-		<pattr name = "gain~[53]" value = "365" />
-		<pattr name = "gain~[54]" value = "365" />
-		<pattr name = "gain~[55]" value = "365" />
-		<pattr name = "gain~[56]" value = "373" />
-		<pattr name = "gain~[57]" value = "373" />
-		<pattr name = "gain~[58]" value = "365" />
-		<pattr name = "gain~[59]" value = "365" />
+		<pattr name = "gain~[53]" value = "282" />
+		<pattr name = "gain~[54]" value = "313" />
+		<pattr name = "gain~[55]" value = "313" />
+		<pattr name = "gain~[56]" value = "262" />
+		<pattr name = "gain~[57]" value = "262" />
+		<pattr name = "gain~[58]" value = "177" />
+		<pattr name = "gain~[59]" value = "177" />
 		<pattr name = "gain~[5]" value = "216" />
-		<pattr name = "gain~[60]" value = "365" />
+		<pattr name = "gain~[60]" value = "261" />
 		<pattr name = "gain~[61]" value = "365" />
 		<pattr name = "gain~[62]" value = "365" />
 		<pattr name = "gain~[63]" value = "365" />
@@ -87,30 +87,30 @@
 		<pattr name = "number[17]" value = "365" />
 		<pattr name = "number[18]" value = "365" />
 		<pattr name = "number[19]" value = "303" />
-		<pattr name = "number[1]" value = "365" />
+		<pattr name = "number[1]" value = "385" />
 		<pattr name = "number[20]" value = "275" />
 		<pattr name = "number[21]" value = "365" />
 		<pattr name = "number[22]" value = "281" />
 		<pattr name = "number[23]" value = "285" />
 		<pattr name = "number[24]" value = "273" />
-		<pattr name = "number[25]" value = "365" />
-		<pattr name = "number[27]" value = "365" />
-		<pattr name = "number[28]" value = "365" />
-		<pattr name = "number[30]" value = "365" />
-		<pattr name = "number[32]" value = "373" />
-		<pattr name = "number[33]" value = "365" />
+		<pattr name = "number[25]" value = "332" />
+		<pattr name = "number[27]" value = "349" />
+		<pattr name = "number[28]" value = "282" />
+		<pattr name = "number[30]" value = "313" />
+		<pattr name = "number[32]" value = "262" />
+		<pattr name = "number[33]" value = "177" />
 		<pattr name = "number[34]" value = "365" />
 		<pattr name = "number[36]" value = "365" />
 		<pattr name = "number[37]" value = "365" />
 		<pattr name = "number[38]" value = "365" />
 		<pattr name = "number[39]" value = "365" />
-		<pattr name = "number[3]" value = "310" />
+		<pattr name = "number[3]" value = "343" />
 		<pattr name = "number[40]" value = "0" />
 		<pattr name = "number[41]" value = "365" />
 		<pattr name = "number[42]" value = "365" />
 		<pattr name = "number[43]" value = "365" />
 		<pattr name = "number[4]" value = "216" />
-		<pattr name = "number[8]" value = "365" />
+		<pattr name = "number[8]" value = "331" />
 		<pattr name = "pan[1]" value = "-32." />
 		<pattr name = "pan[2]" value = "-46." />
 		<pattr name = "pan[3]" value = "-16." />
@@ -120,7 +120,7 @@
 		<pattr name = "pan[7]" value = "32." />
 		<pattr name = "pan[8]" value = "64." />
 		<pattr name = "textbutton" value = "1" />
-		<pattr name = "toggle[26]" value = "0" />
+		<pattr name = "toggle[26]" value = "1" />
 		<pattr name = "toggle[27]" value = "1" />
 		<pattr name = "toggle[28]" value = "1" />
 		<pattr name = "umenu" value = "0" />
